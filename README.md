@@ -17,6 +17,10 @@ Si vous rencontrez une erreur au niveau de la réception de données veuillez ve
 3 - Que votre station météo envoie bien les données sous la forme ci-dessous:
 **x** est une donnée récoltée à partir des différents capteurs
 
+|
+|	Txxx 	|	Hxxx	|	Pxxxx	|Vxx|Dxx
+|-------------------------------
+
 Txxx
 Hxxx
 Pxxxx
@@ -24,5 +28,5 @@ Vxx
 Dxx
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjMxMzY4NF19
+eyJoaXN0b3J5IjpbMTk2NjAxMDc4MywxMzkyMzEzNjg0XX0=
 -->
